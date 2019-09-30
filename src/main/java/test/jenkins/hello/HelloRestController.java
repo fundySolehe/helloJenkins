@@ -9,6 +9,6 @@ public class HelloRestController {
 
 	@GetMapping(value = "/sayHello")
 	public String sayHello() {
-		return "HELLO madafaka";
+		return "HELLO TESTING";
 	}
 }
